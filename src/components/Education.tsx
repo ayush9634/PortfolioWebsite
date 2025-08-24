@@ -6,30 +6,30 @@ const Education = () => {
   const educationData = [
     {
       degree: "Bachelor of Technology (B.Tech)",
-      field: "Artificial Intelligence & Machine Learning",
-      institution: "University/College Name",
-      duration: "2021 - 2025",
+      field: "Computer Science Engineering (Artificial Intelligence & Machine Learning)",
+      institution: "Noida Institute of Engineering and Technology",
+      duration: "2022 - 2026",
       status: "Pursuing",
       description: "Focused on AI/ML fundamentals, data structures, algorithms, and modern software development practices.",
-      highlights: ["Machine Learning", "Deep Learning", "Data Science", "Software Engineering"]
+      highlights: ["Data Structures and Algorithms","Machine Learning", "Deep Learning", "Operating System","Computer Networks", "Software Engineering"]
     },
     {
       degree: "Higher Secondary Education",
       field: "Science (PCM)",
-      institution: "High School Name",
-      duration: "2019 - 2021",
+      institution: "Bal Bharti School Prayagraj",
+      duration: "2020 - 2021",
       status: "Completed",
-      description: "Strong foundation in Mathematics, Physics, and Computer Science.",
-      highlights: ["Mathematics", "Physics", "Computer Science", "Problem Solving"]
+      // description: "Strong foundation in Mathematics, Physics, and Computer Science.",
+      // highlights: ["Mathematics", "Physics", "Computer Science", "Problem Solving"]
     },
     {
       degree: "Secondary Education",
-      field: "General Studies",
+      // field: "General Studies",
       institution: "School Name",
-      duration: "2017 - 2019",
+      duration: "2018 - 2019",
       status: "Completed",
-      description: "Comprehensive education with focus on analytical thinking and foundational concepts.",
-      highlights: ["Academic Excellence", "Leadership", "Extracurricular Activities"]
+      // description: "Comprehensive education with focus on analytical thinking and foundational concepts.",
+      // highlights: ["Academic Excellence", "Leadership", "Extracurricular Activities"]
     }
   ];
 
