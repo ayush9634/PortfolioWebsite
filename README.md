@@ -43,47 +43,10 @@ tsconfig.json – TypeScript compiler settings
 README.md – Project documentation
 .gitignore – Specifies files to ignore in Git
 
-yaml
-
-
 ---
 
-## 🔧 Getting Started Locally
-
-### 1. Clone the repository
 
 
- ```
- public/              # Static assets like images, icons
- src/
- ├── assets/          # Images & static resources
- ├── components/
- │   ├── ui/          # Section-wise components (About, Projects, Education, etc.)
- │   ├── Footer.tsx
- │   ├── Hero.tsx
- │   ├── Navigation.tsx
- │   ├── Projects.tsx
- │   ├── Skills.tsx
- │   ├── Contact.tsx
- │   ├── Achievements.tsx
- │   ├── Certifications.tsx
- │   └── Education.tsx
- ├── hooks/           # Custom React hooks
- ├── lib/             # Utility/helper functions
- ├── pages/           # Page-level components
- ├── App.tsx          # Root component
- ├── main.tsx         # Application entry point
- └── index.css        # Global styles
-
- package.json         # Dependencies and npm scripts
- tailwind.config.js   # Tailwind CSS configuration
- vite.config.ts       # Vite build configuration
- tsconfig.json        # TypeScript compiler settings
- README.md            # Project documentation
- .gitignore           # Specifies files to ignore in Git
- ```
-
- ---
 
  ## 🔧 Getting Started Locally
 
