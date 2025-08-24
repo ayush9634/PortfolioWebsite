@@ -5,18 +5,17 @@ A sleek, responsive, and modern **portfolio website** showcasing my skills, proj
 ---
 
 ## 🚀 Tech Stack
-
-- **Framework**: React + TypeScript (Vite)
-- **Styling**: Tailwind CSS
-- **UI**: Custom components (Hero, Navigation, Projects, Skills, About, etc.)
-- **Build Tool**: Vite
-- **Version Control**: Git + GitHub
-- **Deployment**: Vercel (CI/CD enabled)
+- **Framework**: React + TypeScript (Vite)  
+- **Styling**: Tailwind CSS  
+- **UI**: Custom components (Hero, Navigation, Projects, Skills, About, etc.)  
+- **Build Tool**: Vite  
+- **Version Control**: Git + GitHub  
+- **Deployment**: Vercel (CI/CD enabled)  
 
 ---
----
+
 ## 📂 Project Structure
----
+
 public/ – Static assets like images, icons
 src/
 ├── assets/ – Images & static resources
@@ -37,7 +36,7 @@ src/
 ├── App.tsx – Root component
 ├── main.tsx – Application entry point
 └── index.css – Global styles
----
+
 package.json – Dependencies and npm scripts
 tailwind.config.js – Tailwind CSS configuration
 vite.config.ts – Vite build configuration
@@ -53,33 +52,28 @@ Edit
 
 ## 🔧 Getting Started Locally
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/ayush9634/PortfolioWebsite.git
-   cd PortfolioWebsite
-Install dependencies
-
+### 1. Clone the repository
+```bash
+git clone https://github.com/ayush9634/PortfolioWebsite.git
+cd PortfolioWebsite
+2. Install dependencies
 bash
 Copy
 Edit
 npm install
-Run development server
-
+3. Run development server
 bash
 Copy
 Edit
 npm run dev
-Visit http://localhost:5173 to see your site locally.
+Visit 👉 http://localhost:5173 to see your site locally.
 
-Build for production
-
+4. Build for production
 bash
 Copy
 Edit
 npm run build
-Preview production build
-
+5. Preview production build
 bash
 Copy
 Edit
@@ -87,7 +81,7 @@ npm run preview
 🌍 Deployment
 This website is deployed on Vercel with automatic builds on GitHub push to the main branch.
 
-Live site: https://your-portfolio.vercel.app
+🔗 Live site: https://your-portfolio.vercel.app
 (replace with your actual deployed URL once available)
 
 📬 Contact
@@ -99,4 +93,3 @@ GitHub: github.com/ayush9634
 
 ⭐ Support
 If you like this project, consider giving it a star ⭐ on GitHub — it helps others find it and motivates me to improve further.
----
