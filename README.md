@@ -45,8 +45,7 @@ README.md – Project documentation
 .gitignore – Specifies files to ignore in Git
 
 yaml
-Copy
-Edit
+
 
 ---
 
@@ -58,25 +57,17 @@ git clone https://github.com/ayush9634/PortfolioWebsite.git
 cd PortfolioWebsite
 2. Install dependencies
 bash
-Copy
-Edit
 npm install
 3. Run development server
 bash
-Copy
-Edit
 npm run dev
 Visit 👉 http://localhost:5173 to see your site locally.
 
 4. Build for production
 bash
-Copy
-Edit
 npm run build
 5. Preview production build
 bash
-Copy
-Edit
 npm run preview
 🌍 Deployment
 This website is deployed on Vercel with automatic builds on GitHub push to the main branch.
@@ -93,3 +84,4 @@ GitHub: github.com/ayush9634
 
 ⭐ Support
 If you like this project, consider giving it a star ⭐ on GitHub — it helps others find it and motivates me to improve further.
+
