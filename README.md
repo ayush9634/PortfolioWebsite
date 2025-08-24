@@ -1,72 +1,101 @@
+# 🌐 Ayush Srivastava – Portfolio Website
 
-# Portfolio Website
+A sleek, responsive, and modern **portfolio website** showcasing my skills, projects, achievements, certifications, and education.
 
-This is a personal portfolio website built with React, TypeScript, Vite, Tailwind CSS, and shadcn-ui. It showcases projects, skills, education, achievements, and contact information in a modern, responsive design.
+---
 
-## Features
+## 🚀 Tech Stack
 
-- Responsive and modern UI
-- Project showcase section
-- Skills and achievements display
-- Education timeline
-- Contact form
-- Social media links
+- **Framework**: React + TypeScript (Vite)
+- **Styling**: Tailwind CSS
+- **UI**: Custom components (Hero, Navigation, Projects, Skills, About, etc.)
+- **Build Tool**: Vite
+- **Version Control**: Git + GitHub
+- **Deployment**: Vercel (CI/CD enabled)
 
-## Tech Stack
+---
 
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [shadcn-ui](https://ui.shadcn.com/)
+## 📂 Project Structure
 
-## Getting Started
+public/ – Static assets like images, icons
+src/
+├── assets/ – Images & static resources
+├── components/
+│ ├── ui/ – Section-wise components (About, Projects, Education, etc.)
+│ ├── Footer.tsx
+│ ├── Hero.tsx
+│ ├── Navigation.tsx
+│ ├── Projects.tsx
+│ ├── Skills.tsx
+│ ├── Contact.tsx
+│ ├── Achievements.tsx
+│ ├── Certifications.tsx
+│ └── Education.tsx
+├── hooks/ – Custom React hooks
+├── lib/ – Utility/helper functions
+├── pages/ – Page-level components
+├── App.tsx – Root component
+├── main.tsx – Application entry point
+└── index.css – Global styles
 
-### Prerequisites
+package.json – Dependencies and npm scripts
+tailwind.config.js – Tailwind CSS configuration
+vite.config.ts – Vite build configuration
+tsconfig.json – TypeScript compiler settings
+README.md – Project documentation
+.gitignore – Specifies files to ignore in Git
 
-- [Node.js](https://nodejs.org/) (v16 or higher recommended)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
+yaml
+Copy
+Edit
 
-### Installation
+---
 
-1. **Clone the repository:**
-	```sh
-	git clone <YOUR_GIT_URL>
-	cd PortfolioWebsite
-	```
-2. **Install dependencies:**
-	```sh
-	npm install
-	```
-3. **Start the development server:**
-	```sh
-	npm run dev
-	```
-4. Open your browser and visit the local URL (usually http://localhost:5173) to view the site.
+## 🔧 Getting Started Locally
 
-## Folder Structure
+1. **Clone the repository**
 
-- `src/components/` — React components for each section (About, Projects, Education, etc.)
-- `src/assets/` — Images and static assets
-- `src/pages/` — Page-level components
-- `public/` — Static files
+   ```bash
+   git clone https://github.com/ayush9634/PortfolioWebsite.git
+   cd PortfolioWebsite
+Install dependencies
 
-## Deployment
+bash
+Copy
+Edit
+npm install
+Run development server
 
-You can deploy this site to any static hosting service (Vercel, Netlify, GitHub Pages, etc.).
+bash
+Copy
+Edit
+npm run dev
+Visit http://localhost:5173 to see your site locally.
 
-### Example (Vercel):
-1. Push your code to GitHub.
-2. Import your repository in [Vercel](https://vercel.com/).
-3. Set the build command to `npm run build` and the output directory to `dist`.
-4. Deploy!
+Build for production
 
-## Customization
+bash
+Copy
+Edit
+npm run build
+Preview production build
 
-- Update your information in the components under `src/components/`.
-- Replace images in `src/assets/` as needed.
-- Edit styles using Tailwind CSS classes.
+bash
+Copy
+Edit
+npm run preview
+🌍 Deployment
+This website is deployed on Vercel with automatic builds on GitHub push to the main branch.
 
-## License
+Live site: https://your-portfolio.vercel.app
+(replace with your actual deployed URL once available)
 
-This project is open source and available under the [MIT License](LICENSE).
+📬 Contact
+Email: srivastavaayush2207@gmail.com
+
+LinkedIn: linkedin.com/in/ayushsrivastava9634
+
+GitHub: github.com/ayush9634
+
+⭐ Support
+If you like this project, consider giving it a star ⭐ on GitHub — it helps others find it and motivates me to improve further.
