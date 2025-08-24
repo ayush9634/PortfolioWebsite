@@ -19,17 +19,17 @@ const Education = () => {
       institution: "Bal Bharti School Prayagraj",
       duration: "2020 - 2021",
       status: "Completed",
-      // description: "Strong foundation in Mathematics, Physics, and Computer Science.",
-      // highlights: ["Mathematics", "Physics", "Computer Science", "Problem Solving"]
+      description: "",
+      highlights: [""]
     },
     {
       degree: "Secondary Education",
-      // field: "General Studies",
+      field: "",
       institution: "SJS Public School Unchahar",
       duration: "2018 - 2019",
       status: "Completed",
-      // description: "Comprehensive education with focus on analytical thinking and foundational concepts.",
-      // highlights: ["Academic Excellence", "Leadership", "Extracurricular Activities"]
+      description: "",
+      highlights: [""]
     }
   ];
 
