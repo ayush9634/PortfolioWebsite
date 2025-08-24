@@ -14,7 +14,7 @@ A sleek, responsive, and modern **portfolio website** showcasing my skills, proj
 - **Deployment**: Vercel (CI/CD enabled)
 
 ---
-
+---
 ## 📂 Project Structure
 
 public/ – Static assets like images, icons
