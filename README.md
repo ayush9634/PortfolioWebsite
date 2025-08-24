@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Project Structure
-
+```
 public/ – Static assets like images, icons
 src/
 ├── assets/ – Images & static resources
@@ -43,7 +43,9 @@ tsconfig.json – TypeScript compiler settings
 README.md – Project documentation
 .gitignore – Specifies files to ignore in Git
 
----
+```
+
+
 
 
 
