@@ -25,7 +25,7 @@ const Hero = () => {
           </p>
           
           <p className="text-lg text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
-            Passionate about building innovative solutions with modern technologies. 
+            Excited about building innovative solutions with modern technologies. 
             Specializing in MERN stack development and artificial intelligence.
           </p>
           
@@ -55,17 +55,24 @@ const Hero = () => {
               </a>
             </Button>
             
-            <Button 
-              variant="outline" 
-              size="lg" 
-              className="group hover-lift border-accent-purple text-accent-purple hover:bg-accent-purple hover:text-white px-8 py-6 text-lg"
-              asChild
-            >
-              <a href="#contact">
-                <Mail className="mr-2 h-5 w-5 group-hover:scale-110 transition-transform" />
-                Get In Touch
-              </a>
-            </Button>
+         <Button 
+  variant="outline" 
+  size="lg" 
+  className="group hover-lift border-accent-purple text-accent-purple hover:bg-accent-purple hover:text-white px-8 py-6 text-lg"
+  asChild
+>
+  <a 
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=srivastavaayush2207@gmail.com&su=Opportunity%20to%20Connect&body=Hello%20Ayush%2C%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect%20regarding%20an%20opportunity.%0A%0ABest%20Regards%2C"
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  <Mail className="mr-2 h-5 w-5 group-hover:scale-110 transition-transform" />
+  Get In Touch
+</a>
+
+</Button>
+
+
           </div>
         </div>
         

@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Github, ExternalLink, Code } from "lucide-react";
 import jobPortalImage from "@/assets/job-portal.jpg";
-import smartAssistantImage from "@/assets/smart-assistant.jpg";
+import smartAssistantImage from "@/assets/smart-assisstant.png";
 
 const Projects = () => {
   const projects = [

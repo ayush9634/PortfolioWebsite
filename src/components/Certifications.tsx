@@ -6,17 +6,17 @@ import { Button } from "@/components/ui/button";
 const Certifications = () => {
   const certifications = [
     {
-      title: "Java Programming Certification",
-      issuer: "Oracle/Industry Standard",
+      title: "Programming using Java",
+      issuer: "Infosys Springboard",
       description: "Comprehensive certification covering object-oriented programming, data structures, and advanced Java concepts.",
-      date: "2023",
+      date: "2025",
       status: "Certified",
       skills: ["OOP", "Collections", "Multithreading", "Exception Handling"],
       color: "bg-orange-500/10 text-orange-600 border-orange-200"
     },
     {
-      title: "Python Programming Certification",
-      issuer: "Python Institute/Industry Standard",
+      title: "Python Basics",
+      issuer: "Coursera",
       description: "Advanced certification in Python programming, including libraries for data science and machine learning.",
       date: "2023",
       status: "Certified", 
@@ -24,8 +24,8 @@ const Certifications = () => {
       color: "bg-blue-500/10 text-blue-600 border-blue-200"
     },
     {
-      title: "React.js Development Certification",
-      issuer: "Meta/Industry Standard",
+      title: "ReactJS",
+      issuer: "Infosys Springboard",
       description: "Modern React development including hooks, state management, and component architecture.",
       date: "2024",
       status: "Certified",
@@ -33,29 +33,29 @@ const Certifications = () => {
       color: "bg-cyan-500/10 text-cyan-600 border-cyan-200"
     },
     {
-      title: "SQL Database Certification",
-      issuer: "Database Institute",
+      title: "Database and SQL",
+      issuer: "Infosys Springboard",
       description: "Database design, query optimization, and advanced SQL concepts for enterprise applications.",
-      date: "2023",
+      date: "2025",
       status: "Certified",
       skills: ["Query Design", "Database Design", "Optimization", "Stored Procedures"],
       color: "bg-green-500/10 text-green-600 border-green-200"
     },
     {
-      title: "Artificial Intelligence Fundamentals",
-      issuer: "AI Institute",
+      title: "Introduction to Artificial Intelligence(AI)",
+      issuer: "Coursera",
       description: "Core AI concepts including machine learning algorithms, neural networks, and practical applications.",
-      date: "2024",
+      date: "2023",
       status: "Certified",
       skills: ["ML Algorithms", "Neural Networks", "Data Processing", "AI Ethics"],
       color: "bg-purple-500/10 text-purple-600 border-purple-200"
     },
     {
-      title: "Deep Learning Specialization",
-      issuer: "DeepLearning.AI",
+      title: "Fundamentals of Deep Learning",
+      issuer: "nVIDIA Deep Learning Institute",
       description: "Advanced deep learning techniques including CNNs, RNNs, and modern architectures.",
       date: "2024",
-      status: "In Progress",
+      status: "Certified",
       skills: ["CNNs", "RNNs", "Transfer Learning", "Model Optimization"],
       color: "bg-indigo-500/10 text-indigo-600 border-indigo-200"
     }
@@ -157,11 +157,11 @@ const Certifications = () => {
                   <div className="text-sm text-muted-foreground">Total Certifications</div>
                 </div>
                 <div>
-                  <div className="text-2xl font-bold text-gradient mb-1">5</div>
+                  <div className="text-2xl font-bold text-gradient mb-1">6</div>
                   <div className="text-sm text-muted-foreground">Completed</div>
                 </div>
                 <div>
-                  <div className="text-2xl font-bold text-gradient mb-1">1</div>
+                  <div className="text-2xl font-bold text-gradient mb-1">0</div>
                   <div className="text-sm text-muted-foreground">In Progress</div>
                 </div>
                 <div>

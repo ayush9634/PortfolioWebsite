@@ -9,7 +9,7 @@ const Achievements = () => {
       category: "Machine Learning",
       description: "Selected for Amazon's prestigious ML Summer School program, focusing on advanced machine learning concepts and real-world applications in the industry.",
       date: "2025",
-      status: "Upcoming",
+      status: "Ongoing",
       icon: Award,
       color: "bg-warning/10 text-warning border-warning/20"
     },
@@ -26,7 +26,7 @@ const Achievements = () => {
       title: "Academic Excellence",
       category: "Education",
       description: "Consistently maintained high academic performance throughout the B.Tech program with a focus on AI/ML subjects.",
-      date: "2021-Present",
+      date: "2022-Present",
       status: "Ongoing",
       icon: Star,
       color: "bg-primary/10 text-primary border-primary/20"
@@ -34,7 +34,7 @@ const Achievements = () => {
   ];
 
   const stats = [
-    { label: "Projects Completed", value: "15+" },
+    { label: "Projects Completed", value: "5+" },
     { label: "Technologies Mastered", value: "20+" },
     { label: "GitHub Repositories", value: "25+" },
     { label: "Learning Hours", value: "1000+" }

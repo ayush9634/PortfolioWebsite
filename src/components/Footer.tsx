@@ -90,7 +90,7 @@ const Footer = () => {
               <div className="space-y-2 text-muted-foreground">
                 <p>Let's work together on your next project!</p>
                 <p className="text-sm">
-                  <strong className="text-foreground">Email:</strong> ayush.srivastava@email.com
+                  <strong className="text-foreground">Email:</strong> srivastavaayush2207@email.com
                 </p>
                 <p className="text-sm">
                   <strong className="text-foreground">Location:</strong> India
@@ -118,7 +118,7 @@ const Footer = () => {
             
             <div className="flex items-center space-x-4">
               <span className="text-sm text-muted-foreground">
-                Built with React & TypeScript
+                
               </span>
               <Button
                 variant="ghost"

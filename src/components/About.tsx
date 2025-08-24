@@ -6,7 +6,7 @@ const About = () => {
     {
       icon: GraduationCap,
       title: "Education",
-      description: "B.Tech in AI & ML with strong academic foundation"
+      description: "B.Tech in CSE(AIML) with strong academic foundation"
     },
     {
       icon: Code,
@@ -16,7 +16,7 @@ const About = () => {
     {
       icon: Brain,
       title: "AI/ML",
-      description: "Passionate about artificial intelligence and machine learning"
+      description: "Strong foundation in AI/ML concepts and applications"
     },
     {
       icon: Target,
@@ -33,8 +33,7 @@ const About = () => {
             About <span className="text-gradient">Me</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            A passionate developer with a strong foundation in computer science and 
-            a keen interest in building innovative solutions.
+           A developer with a strong computer science foundation, motivated to design and develop innovative solutions.
           </p>
         </div>
 
@@ -44,14 +43,14 @@ const About = () => {
             <div className="prose prose-lg text-muted-foreground leading-relaxed">
               <p className="mb-6">
                 I'm Ayush Srivastava, a dedicated <strong className="text-foreground">B.Tech student</strong> specializing in 
-                <strong className="text-primary"> Artificial Intelligence and Machine Learning</strong>. 
+                <strong className="text-primary"> Computer Science Engineering (Artificial Intelligence and Machine Learning)</strong>. 
                 My journey in technology began with a curiosity about how software can solve real-world problems.
               </p>
               
               <p className="mb-6">
-                With expertise in <strong className="text-foreground">Python, Java, JavaScript</strong>, and the 
-                <strong className="text-primary"> MERN stack</strong>, I've developed several projects that showcase 
-                my ability to build full-stack applications. I'm particularly passionate about integrating 
+                With expertise in <strong className="text-foreground">Java, Python, JavaScript</strong>, and the 
+                <strong className="text-primary"> MERN stack</strong>, I've developed projects that showcase 
+                my ability to build full-stack applications. I'm particularly interested about integrating 
                 AI/ML capabilities into web applications.
               </p>
               
