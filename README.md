@@ -16,7 +16,7 @@ A sleek, responsive, and modern **portfolio website** showcasing my skills, proj
 ---
 ---
 ## 📂 Project Structure
-
+---
 public/ – Static assets like images, icons
 src/
 ├── assets/ – Images & static resources
@@ -37,7 +37,7 @@ src/
 ├── App.tsx – Root component
 ├── main.tsx – Application entry point
 └── index.css – Global styles
-
+---
 package.json – Dependencies and npm scripts
 tailwind.config.js – Tailwind CSS configuration
 vite.config.ts – Vite build configuration
@@ -99,3 +99,4 @@ GitHub: github.com/ayush9634
 
 ⭐ Support
 If you like this project, consider giving it a star ⭐ on GitHub — it helps others find it and motivates me to improve further.
+---
