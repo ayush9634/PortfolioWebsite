@@ -91,9 +91,8 @@ README.md – Project documentation
 
  This website is deployed on Vercel with automatic builds on GitHub push to the main branch.
 
- 🔗 **Live site:** https://your-portfolio.vercel.app  
- (replace with your actual deployed URL once available)
-
+ 🔗 **Live site:** https://ayush-portfolio-liart-two.vercel.app
+ 
  ---
 
  ## 📬 Contact
