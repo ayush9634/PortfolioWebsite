@@ -25,7 +25,7 @@ const Education = () => {
     {
       degree: "Secondary Education",
       // field: "General Studies",
-      institution: "School Name",
+      institution: "SJS Public School Unchahar",
       duration: "2018 - 2019",
       status: "Completed",
       // description: "Comprehensive education with focus on analytical thinking and foundational concepts.",
